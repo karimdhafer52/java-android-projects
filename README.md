@@ -3,4 +3,4 @@ La liste des projets Java réalisés sur Android Studio dans le cadre du cursus 
 
 ## Contributeurs
 - [Karim Dhafer](https://github.com/karimdhafer52)
-- [Ahmed Khammesi]() à partir du 4ème TP.
+- [Ahmed Khammesi](https://github.com/Khamessi-Ahmed)
